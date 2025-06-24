@@ -1,0 +1,18 @@
+[submodule "sql-ae-plugin"]
+	path = sql-ae-plugin
+	url = https://github.com/ganteater/sql-ae-plugin.git
+[submodule "web-ae-plugin"]
+	path = web-ae-plugin
+	url = https://github.com/ganteater/web-ae-plugin.git
+[submodule "python-ae-plugin"]
+	path = python-ae-plugin
+	url = https://github.com/ganteater/python-ae-plugin.git
+[submodule "jms-ae-plugin"]
+	path = jms-ae-plugin
+	url = https://github.com/ganteater/jms-ae-plugin.git
+[submodule "aws-ae-plugin"]
+	path = aws-ae-plugin
+	url = https://github.com/ganteater/aws-ae-plugin.git
+[submodule "atg-ae-plugin"]
+	path = atg-ae-plugin
+	url = https://github.com/ganteater/atg-ae-plugin.git
