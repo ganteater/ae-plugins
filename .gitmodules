@@ -16,3 +16,6 @@
 [submodule "atg-ae-plugin"]
 	path = atg-ae-plugin
 	url = https://github.com/ganteater/atg-ae-plugin.git
+[submodule "ai-ae-plugin"]
+	path = ai-ae-plugin
+	url = https://github.com/ganteater/ai-ae-plugin.git
