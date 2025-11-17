@@ -15,12 +15,12 @@
 	<url>https://github.com/ganteater/ae-plugins</url>
 	
 	<modules>
+		<module>ai-ae-plugin</module>
 		<module>sql-ae-plugin</module>
 		<module>web-ae-plugin</module>
 		<module>python-ae-plugin</module>
 		<module>jms-ae-plugin</module>
 		<module>aws-ae-plugin</module>
 		<module>atg-ae-plugin</module>
-		<module>ai-ae-plugin</module>
 	</modules>
 </project>
