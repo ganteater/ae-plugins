@@ -5,7 +5,7 @@
 
 	<groupId>com.ganteater.plugins</groupId>
 	<artifactId>ae-plugins-build</artifactId>
-	<version>1.2.4</version>
+	<version>1.2.8</version>
 	<packaging>pom</packaging>
 
 	<name>Anteater Plugins Build POM</name>
